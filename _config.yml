@@ -32,6 +32,7 @@ navigation:
   - Projects: /projects
   - Students: /students
   - Information: /info
+  - Syllabus: /syllabus
   - Resources: /resources
 
 # Custom collections
