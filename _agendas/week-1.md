@@ -7,6 +7,7 @@ summary: Intros, Syllabus, Code of Conduct, Student Slideshows
 
 ### Tuesday, In Class
 
+- [Zoom Link](https://NewSchool.zoom.us/my/nikafisher)
 - Introductions and Website overview
 - [Syllabus overview](/syllabus)
 - [Code of Conduct Creation](https://paper.dropbox.com/doc/F20-Core-Interaction-1-Code-of-Conduct--A6xleeNlU4eEYcSBfVd8K~0YAQ-60w16iII6a9Z7LD5YEU1C)
