@@ -1,0 +1,1198 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"for",
+				"for\tfor (…) {…}"
+			],
+			[
+				"getting",
+				"getting-here-icon-wrapper"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "_config.yml",
+			"settings":
+			{
+				"buffer_size": 1793,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "_agendas/week-1.md",
+			"settings":
+			{
+				"buffer_size": 2440,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "_projects/maxims.md",
+			"settings":
+			{
+				"buffer_size": 814,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "_agendas/week-4.md",
+			"settings":
+			{
+				"buffer_size": 2818,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "_agendas/week-5.md",
+			"settings":
+			{
+				"buffer_size": 1582,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "students.html",
+			"settings":
+			{
+				"buffer_size": 584,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/Users/nikasimovich/Dropbox/_Work/Teaching/2019/rutgers/rutgers-school-setup/projects/html-quiz/index.html",
+			"settings":
+			{
+				"buffer_size": 2047,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "_students/sarah.md",
+			"settings":
+			{
+				"buffer_size": 151,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "_students/kyle.md",
+			"settings":
+			{
+				"buffer_size": 173,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "_students/sunga.md",
+			"settings":
+			{
+				"buffer_size": 161,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "_students/jillian.md",
+			"settings":
+			{
+				"buffer_size": 175,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "_students/jennifer.md",
+			"settings":
+			{
+				"buffer_size": 164,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "_students/alexa.md",
+			"settings":
+			{
+				"buffer_size": 175,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "_sass/partials/_layout.scss",
+			"settings":
+			{
+				"buffer_size": 6904,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 209.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"edit",
+				"Project: Edit Project"
+			],
+			[
+				"editp",
+				"Project: Edit Project"
+			],
+			[
+				"dele",
+				"File: Delete"
+			],
+			[
+				"revea",
+				"File: Reveal"
+			],
+			[
+				"del",
+				"File: Delete"
+			],
+			[
+				"packinstal",
+				"Package Control: Install Package"
+			],
+			[
+				"git checkout",
+				"Git: Checkout"
+			],
+			[
+				"git push",
+				"Git: Push"
+			],
+			[
+				"git merge",
+				"Git: Merge"
+			],
+			[
+				"git pull",
+				"Git: Pull"
+			],
+			[
+				"git status",
+				"Git: Status"
+			],
+			[
+				"editpro",
+				"Project: Edit Project"
+			],
+			[
+				"gitpush",
+				"Git: Push"
+			],
+			[
+				"git statu",
+				"Git: Status"
+			],
+			[
+				"git stat",
+				"Git: Status"
+			],
+			[
+				"checkout",
+				"Git: Checkout"
+			],
+			[
+				"gitp",
+				"Git: Push"
+			],
+			[
+				"check",
+				"Git: Checkout"
+			],
+			[
+				"git pul",
+				"Git: Pull"
+			],
+			[
+				"ch",
+				"Git: Checkout"
+			],
+			[
+				"chek",
+				"Git: Checkout"
+			],
+			[
+				"merge",
+				"Git: Merge"
+			],
+			[
+				"chec",
+				"Git: Checkout"
+			],
+			[
+				"fet",
+				"Git: Fetch"
+			],
+			[
+				"git check",
+				"Git: Checkout"
+			],
+			[
+				"git fetch",
+				"Git: Fetch"
+			],
+			[
+				"gitpull",
+				"Git: Pull"
+			],
+			[
+				"gitstatus",
+				"Git: Status"
+			],
+			[
+				"BLAME",
+				"Git: Blame"
+			],
+			[
+				"gitstat",
+				"Git: Status"
+			],
+			[
+				"packin",
+				"Package Control: Install Package"
+			],
+			[
+				"sass",
+				"Set Syntax: Sass"
+			],
+			[
+				"pack install",
+				"Package Control: Install Package"
+			],
+			[
+				"markdown",
+				"Set Syntax: Markdown"
+			],
+			[
+				"packinsta",
+				"Package Control: Install Package"
+			],
+			[
+				"instal",
+				"Install Package Control"
+			]
+		],
+		"width": 444.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/Users/nikasimovich/projects/rutgers_s19",
+		"/Users/nikasimovich/projects/rutgers_s19/_agendas",
+		"/Users/nikasimovich/projects/rutgers_s19/_lectures",
+		"/Users/nikasimovich/projects/rutgers_s19/_projects",
+		"/Users/nikasimovich/projects/rutgers_s19/_sass",
+		"/Users/nikasimovich/projects/rutgers_s19/_sass/partials",
+		"/Users/nikasimovich/projects/rutgers_s19/_students",
+		"/Users/nikasimovich/projects/rutgers_s19/studio"
+	],
+	"file_history":
+	[
+		"/Users/nikasimovich/projects/rutgers_s19/_students/jael.md",
+		"/Users/nikasimovich/projects/rutgers_s19/_agendas/week-2.md",
+		"/Users/nikasimovich/projects/rutgers_s19/_agendas/week-3.md",
+		"/Users/nikasimovich/projects/rutgers_s19/_agendas/week-4.md",
+		"/Users/nikasimovich/projects/rutgers_s19/_projects/.gitkeep",
+		"/Users/nikasimovich/projects/rutgers_s19/_students/sunga.md",
+		"/Users/nikasimovich/projects/rutgers_s19/_students/luiza.md",
+		"/Users/nikasimovich/projects/rutgers_s19/_students/derek.md",
+		"/Users/nikasimovich/projects/rutgers_s19/_students/edward.md",
+		"/Users/nikasimovich/projects/rutgers_s19/_students/pauline.md",
+		"/Users/nikasimovich/projects/rutgers_s19/_layouts/home.html",
+		"/Users/nikasimovich/projects/rutgers_s19/_projects/personal-hp.md",
+		"/Users/nikasimovich/projects/rutgers_s19/_projects/maxims.md",
+		"/Users/nikasimovich/Dropbox/_Work/Teaching/2019/rutgers/rutgers-school-setup/index.html",
+		"/Users/nikasimovich/projects/rutgers_s19/students.html",
+		"/Users/nikasimovich/projects/rutgers_s19/_students/alexa.md",
+		"/Users/nikasimovich/projects/rutgers_s19/_students/sarah.md",
+		"/Users/nikasimovich/projects/rutgers_s19/resources.md",
+		"/Users/nikasimovich/projects/rutgers_s19/js/main.js",
+		"/Users/nikasimovich/projects/rutgers_s19/_projects/insta-diary.md",
+		"/Users/nikasimovich/projects/rutgers_s19/info.html",
+		"/Users/nikasimovich/projects/rutgers_s19/_agendas/week-1.md",
+		"/Users/nikasimovich/projects/rutgers_s19/_students/kyle.md",
+		"/Users/nikasimovich/projects/rutgers_s19/_students/jillian.md",
+		"/Users/nikasimovich/projects/rutgers_s19/_projects/fictional-interface.md",
+		"/Users/nikasimovich/projects/rutgers_s19/_students/jennifer.md",
+		"/Users/nikasimovich/projects/rutgers_s19/css/main.scss",
+		"/Users/nikasimovich/projects/rutgers_s19/_sass/partials/_layout.scss",
+		"/Users/nikasimovich/projects/rutgers_s19/_sass/base/_base.scss",
+		"/Users/nikasimovich/projects/rutgers_s19/_sass/core/_variables.scss",
+		"/Users/nikasimovich/projects/rutgers_s19/_includes/footer.html",
+		"/Users/nikasimovich/projects/rutgers_s19/_projects/reading-presentations.md",
+		"/Users/nikasimovich/projects/rutgers_s19/_projects/live-data.md",
+		"/Users/nikasimovich/projects/rutgers_s19/_projects/literal-abstract.md",
+		"/Users/nikasimovich/projects/rutgers_s19/_projects/time-capsule.md",
+		"/Users/nikasimovich/projects/rutgers_s19/_projects/obsessions.md",
+		"/Users/nikasimovich/projects/rutgers_s19/_layouts/default.html",
+		"/Users/nikasimovich/projects/rutgers_s19/_includes/header.html",
+		"/Users/nikasimovich/projects/rutgers_s19/README.md",
+		"/Users/nikasimovich/projects/rutgers_s19/rutgers_s19.sublime-project",
+		"/Users/nikasimovich/projects/sublime_text_projects/ci.sublime-project",
+		"/Users/nikasimovich/Library/Application Support/Sublime Text 3/Packages/User/SublimeGit.sublime-settings",
+		"/Users/nikasimovich/Library/Application Support/Sublime Text 3/Packages/SublimeGit/SublimeGit.sublime-settings",
+		"/Users/nikasimovich/projects/rutgersS19/site/blueprints/default.yml",
+		"/Users/nikasimovich/projects/rutgersS19/assets/css/index.css",
+		"/Users/nikasimovich/projects/rutgersS19/site/snippets/header.php",
+		"/Users/nikasimovich/Dropbox/_Work/Teaching/2019/rutgers/practice/practice-comparison.js",
+		"/Users/nikasimovich/Dropbox/_Work/Teaching/2019/rutgers/practice/turn-background.js",
+		"/Users/nikasimovich/projects/rutgersS19/starterkit/content/home/home.txt",
+		"/Users/nikasimovich/projects/rutgersS19/starterkit/site/templates/home.php",
+		"/Users/nikasimovich/projects/rutgersS19/starterkit/site/snippets/footer.php",
+		"/Users/nikasimovich/Downloads/flexbox-tutorial/12-column-grid.html",
+		"/Users/nikasimovich/Downloads/flexbox-tutorial/style.css",
+		"/Users/nikasimovich/projects/rutgersS19/starterkit/assets/css/back-up.css",
+		"/Users/nikasimovich/Dropbox/_Work/Teaching/2019/rutgers/practice/p5/empty-example/sketch.js",
+		"/Users/nikasimovich/Dropbox/_Work/Teaching/2019/rutgers/practice/p5/empty-example/index.html",
+		"/Users/nikasimovich/Downloads/starterkit-master/site/templates/home.php",
+		"/Users/nikasimovich/Downloads/starterkit-master/content/home/home.txt",
+		"/Users/nikasimovich/projects/mobile_design_2018_fall/_agendas/week-11.md",
+		"/Users/nikasimovich/projects/mobile_design_2018_fall/_projects/window.md",
+		"/Users/nikasimovich/projects/mobile_design_2018_fall/_agendas/week-5.md",
+		"/Users/nikasimovich/projects/mobile_design_2018_fall/_agendas/week-1.md",
+		"/Users/nikasimovich/projects/mobile_design_2018_fall/_students/example123.md",
+		"/Users/nikasimovich/projects/mobile_design_2018_fall/_students/john.md",
+		"/Users/nikasimovich/projects/mobile_design_2018_fall/_lectures/lecture-11.md",
+		"/Users/nikasimovich/projects/mobile_design_2018_fall/_agendas/week-2.md",
+		"/Users/nikasimovich/projects/mobile_design_2018_fall/_agendas/week-3.md",
+		"/Users/nikasimovich/projects/mobile_design_2018_fall/_agendas/week-6.md",
+		"/Users/nikasimovich/projects/mobile_design_2018_fall/_agendas/week-7.md",
+		"/Users/nikasimovich/projects/mobile_design_2018_fall/_agendas/week-9.md",
+		"/Users/nikasimovich/projects/mobile_design_2018_fall/_lectures/lecture-5.md",
+		"/Users/nikasimovich/projects/mobile_design_2018_fall/_lectures/lecture-9.md",
+		"/Users/nikasimovich/projects/mobile_design_2018_fall/_lectures/lecture-10.md",
+		"/Users/nikasimovich/projects/mobile_design_2018_fall/_lectures/lecture-8.md",
+		"/Users/nikasimovich/projects/mobile_design_2018_fall/_lectures/lecture-7.md",
+		"/Users/nikasimovich/projects/mobile_design_2018_fall/_lectures/lecture-6.md",
+		"/Users/nikasimovich/projects/mobile_design_2018_fall/resources.md",
+		"/Users/nikasimovich/Desktop/thong.svg",
+		"/Users/nikasimovich/Downloads/Icon Pee-Proof Underwear _ Shop Underwear_files/saved_resource(1).html",
+		"/Users/nikasimovich/projects/mobile_design_2018_fall/_agendas/week-8.md",
+		"/Users/nikasimovich/projects/mobile_design_2018_fall/_includes/header.html",
+		"/Users/nikasimovich/projects/mobile_design_2018_fall/_lectures/lecture-4.md",
+		"/Users/nikasimovich/projects/mobile_design_2018_fall/_lectures/lecture-3.md",
+		"/Users/nikasimovich/projects/mobile_design_2018_fall/_agendas/week-4.md",
+		"/Users/nikasimovich/projects/mobile_design_2018_fall/_projects/helpful-app.md",
+		"/Users/nikasimovich/projects/mobile_design_2018_fall/_projects/transaction.md",
+		"/Users/nikasimovich/projects/mobile_design_2018_fall/_includes/footer.html",
+		"/Users/nikasimovich/projects/mobile_design_2018_fall/_projects/story-screens.md",
+		"/Users/nikasimovich/projects/mobile_design_2018_fall/_lectures/lecture-2.md",
+		"/Users/nikasimovich/projects/mobile_design_2018_fall/_lectures/lecture-1.md",
+		"/Users/nikasimovich/projects/mobile_design_2018_fall/_projects/comparison.md",
+		"/Users/nikasimovich/projects/mobile_design_2018_fall/_layouts/home.html",
+		"/Users/nikasimovich/projects/mobile_design_2018_fall/_layouts/project.html",
+		"/Users/nikasimovich/projects/mobile_design_2018_fall/_projects/test.md",
+		"/Users/nikasimovich/Desktop/jonesy-loader.svg",
+		"/Users/nikasimovich/Desktop/loader.html",
+		"/Users/nikasimovich/Desktop/assets/main.css",
+		"/Users/nikasimovich/Dropbox/_Work/Teaching/2017/2017_spring_ci/explorations/hover-demo/hover-demo/index.html",
+		"/Users/nikasimovich/Dropbox/_Work/Freelancing/jonesy/in-development/images/pdps/Added.svg",
+		"/Users/nikasimovich/projects/ci18/_agendas/week-14.md",
+		"/Users/nikasimovich/projects/ci18/_agendas/week-13.md",
+		"/Users/nikasimovich/projects/ci18/_agendas/week-7.md",
+		"/Users/nikasimovich/projects/ci18/_agendas/week-8.md",
+		"/Users/nikasimovich/Downloads/weather-demos/weather-demo_internal-js/weather.js",
+		"/Users/nikasimovich/projects/ci18/_agendas/week-10.md",
+		"/Users/nikasimovich/projects/ci/_agendas/week-11.md",
+		"/Users/nikasimovich/projects/ci18/_agendas/week-5.md",
+		"/Users/nikasimovich/projects/wedding/_layouts/default.html",
+		"/Users/nikasimovich/projects/wedding/_config.yml",
+		"/Users/nikasimovich/projects/wedding/_includes/header.html",
+		"/Users/nikasimovich/projects/wedding/_layouts/order-of-events.html",
+		"/Users/nikasimovich/projects/wedding/_layouts/montauk.html",
+		"/Users/nikasimovich/projects/wedding/_sass/core/_variables.scss",
+		"/Users/nikasimovich/projects/wedding/_sass/partials/_home.scss",
+		"/Users/nikasimovich/projects/wedding/_sass/core/_typography_engine.scss",
+		"/Users/nikasimovich/projects/wedding/_sass/base/_typography.scss",
+		"/Users/nikasimovich/projects/wedding/_layouts/home.html",
+		"/Users/nikasimovich/projects/wedding/_sass/partials/_nav.scss",
+		"/Users/nikasimovich/projects/wedding/_layouts/dylan-nika.html",
+		"/Users/nikasimovich/projects/wedding/_sass/partials/_order_of_events.scss",
+		"/Users/nikasimovich/projects/wedding/_sass/partials/_layout.scss",
+		"/Users/nikasimovich/projects/sublime_text_projects/wedding.sublime-project",
+		"/Users/nikasimovich/projects/wedding/_site/our-story/index.html",
+		"/Users/nikasimovich/projects/wedding/_site/index.html",
+		"/Users/nikasimovich/projects/wedding/_site/dylan-nika/index.html",
+		"/Users/nikasimovich/projects/wedding/_layouts/our-story.html",
+		"/Users/nikasimovich/projects/wedding/_site/order-of-events/index.html",
+		"/Users/nikasimovich/projects/wedding/_site/montauk/index.html"
+	],
+	"find":
+	{
+		"height": 24.0
+	},
+	"find_in_files":
+	{
+		"height": 101.0,
+		"where_history":
+		[
+			""
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"theinhar",
+			"theinhard",
+			"body",
+			" [",
+			"console",
+			".flower {",
+			".active",
+			".active:before",
+			".nav .active:before",
+			".nav .active:before ",
+			"Parsons",
+			"Core Interaction",
+			"eye__pupil cls-2",
+			"$site-background-color",
+			".html--home",
+			"fisher",
+			"dylan"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 4,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "_config.yml",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1793,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1236,
+								1236
+							]
+						],
+						"settings":
+						{
+							"git_gutter_is_enabled": true,
+							"syntax": "Packages/YAML/YAML.sublime-syntax",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 73.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 12,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "_agendas/week-1.md",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 2440,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								2434,
+								2312
+							]
+						],
+						"settings":
+						{
+							"git_gutter_is_enabled": true,
+							"syntax": "Packages/Markdown/Markdown.sublime-syntax"
+						},
+						"translation.x": 1.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 3,
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "_projects/maxims.md",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 814,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"git_gutter_is_enabled": true,
+							"syntax": "Packages/Markdown/Markdown.sublime-syntax"
+						},
+						"translation.x": 91.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 2,
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "_agendas/week-4.md",
+					"semi_transient": true,
+					"settings":
+					{
+						"buffer_size": 2818,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								977,
+								774
+							]
+						],
+						"settings":
+						{
+							"git_gutter_is_enabled": true,
+							"syntax": "Packages/Markdown/Markdown.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				},
+				{
+					"buffer": 4,
+					"file": "_agendas/week-5.md",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1582,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								914,
+								914
+							]
+						],
+						"settings":
+						{
+							"git_gutter_is_enabled": true,
+							"syntax": "Packages/Markdown/Markdown.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 22.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				},
+				{
+					"buffer": 5,
+					"file": "students.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 584,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								480,
+								480
+							]
+						],
+						"settings":
+						{
+							"git_gutter_is_enabled": true,
+							"syntax": "Packages/HTML/HTML.sublime-syntax",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 138.0,
+						"translation.y": 7.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 11,
+					"type": "text"
+				},
+				{
+					"buffer": 6,
+					"file": "/Users/nikasimovich/Dropbox/_Work/Teaching/2019/rutgers/rutgers-school-setup/projects/html-quiz/index.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 2047,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								115,
+								115
+							]
+						],
+						"settings":
+						{
+							"git_gutter_is_enabled": false,
+							"syntax": "Packages/HTML/HTML.sublime-syntax",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 10,
+					"type": "text"
+				},
+				{
+					"buffer": 7,
+					"file": "_students/sarah.md",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 151,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								121,
+								121
+							]
+						],
+						"settings":
+						{
+							"git_gutter_is_enabled": true,
+							"syntax": "Packages/Markdown/Markdown.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 9,
+					"type": "text"
+				},
+				{
+					"buffer": 8,
+					"file": "_students/kyle.md",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 173,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								117,
+								117
+							]
+						],
+						"settings":
+						{
+							"git_gutter_is_enabled": true,
+							"syntax": "Packages/Markdown/Markdown.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 8,
+					"type": "text"
+				},
+				{
+					"buffer": 9,
+					"file": "_students/sunga.md",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 161,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								22,
+								22
+							]
+						],
+						"settings":
+						{
+							"git_gutter_is_enabled": true,
+							"syntax": "Packages/Markdown/Markdown.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 7,
+					"type": "text"
+				},
+				{
+					"buffer": 10,
+					"file": "_students/jillian.md",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 175,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								135,
+								135
+							]
+						],
+						"settings":
+						{
+							"git_gutter_is_enabled": true,
+							"syntax": "Packages/Markdown/Markdown.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 6,
+					"type": "text"
+				},
+				{
+					"buffer": 11,
+					"file": "_students/jennifer.md",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 164,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								130,
+								130
+							]
+						],
+						"settings":
+						{
+							"git_gutter_is_enabled": true,
+							"syntax": "Packages/Markdown/Markdown.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 5,
+					"type": "text"
+				},
+				{
+					"buffer": 12,
+					"file": "_students/alexa.md",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 175,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								137,
+								137
+							]
+						],
+						"settings":
+						{
+							"git_gutter_is_enabled": true,
+							"syntax": "Packages/Markdown/Markdown.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 4,
+					"type": "text"
+				},
+				{
+					"buffer": 13,
+					"file": "_sass/partials/_layout.scss",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 6904,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								6613,
+								6613
+							]
+						],
+						"settings":
+						{
+							"git_gutter_is_enabled": true,
+							"syntax": "Packages/Text/Plain text.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 6886.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 13,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 24.0
+	},
+	"input":
+	{
+		"height": 38.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"output.git-checkout":
+	{
+		"height": 112.0
+	},
+	"output.git-commit":
+	{
+		"height": 118.0
+	},
+	"output.git-fetch":
+	{
+		"height": 112.0
+	},
+	"output.git-merge":
+	{
+		"height": 112.0
+	},
+	"output.git-pull":
+	{
+		"height": 118.0
+	},
+	"output.git-push":
+	{
+		"height": 112.0
+	},
+	"output.mdpopups":
+	{
+		"height": 0.0
+	},
+	"output.unsaved_changes":
+	{
+		"height": 28.0
+	},
+	"pinned_build_system": "",
+	"project": "rutgers_s19.sublime-project",
+	"replace":
+	{
+		"height": 44.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"week",
+				"_agendas/week-1.md"
+			],
+			[
+				"home",
+				"_layouts/home.html"
+			],
+			[
+				"layouscs",
+				"_sass/partials/_layout.scss"
+			],
+			[
+				"css",
+				"css/main.scss"
+			],
+			[
+				"agenphp",
+				"site/templates/agenda.php"
+			],
+			[
+				"blueabou",
+				"site/blueprints/about.yml"
+			],
+			[
+				"aboutphp",
+				"site/templates/about.php"
+			],
+			[
+				"default",
+				"site/blueprints/default.yml"
+			],
+			[
+				"projphp",
+				"site/templates/project.php"
+			],
+			[
+				"homephp",
+				"starterkit/site/templates/home.php"
+			],
+			[
+				"footer",
+				"_includes/footer.html"
+			],
+			[
+				"project",
+				"_layouts/project.html"
+			],
+			[
+				"proj",
+				"_projects/window.md"
+			],
+			[
+				"dylan",
+				"_layouts/dylan-nika.html"
+			],
+			[
+				"typoen",
+				"_sass/core/_typography_engine.scss"
+			],
+			[
+				"typo",
+				"_sass/base/_typography.scss"
+			],
+			[
+				"vari",
+				"_sass/core/_variables.scss"
+			],
+			[
+				"var",
+				"_sass/core/_variables.scss"
+			],
+			[
+				"confi",
+				"_config.yml"
+			],
+			[
+				"por",
+				"projects.html"
+			],
+			[
+				"age",
+				"agenda.html"
+			],
+			[
+				"lechtml",
+				"lectures.html"
+			],
+			[
+				"order",
+				"_layouts/order-of-events.html"
+			],
+			[
+				"gem",
+				"Gemfile"
+			],
+			[
+				"agenda",
+				"_agendas/week-10.md"
+			],
+			[
+				"mainscs",
+				"_site/css/main.css"
+			],
+			[
+				"highlscs",
+				"_sass/base/_syntax-highlighting.scss"
+			],
+			[
+				"stude",
+				"students.html"
+			],
+			[
+				"students",
+				"students.html"
+			],
+			[
+				"remimd",
+				"_projects/remixes.md"
+			],
+			[
+				"head",
+				"_includes/head.html"
+			],
+			[
+				"info",
+				"info.html"
+			],
+			[
+				"gitstatus",
+				"*git-status*: ci"
+			],
+			[
+				"",
+				"_agendas/week_1.md"
+			],
+			[
+				"agen",
+				"agenda.html"
+			],
+			[
+				"guard",
+				"Guardfile"
+			],
+			[
+				"re",
+				"readings.html"
+			],
+			[
+				"val",
+				"_projects/valentines-day.md"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": false,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 259.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}

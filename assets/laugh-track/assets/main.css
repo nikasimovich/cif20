@@ -1,0 +1,45 @@
+body {
+  background-color: #30285c;
+  padding: 10em 0;
+}
+
+.container {
+ display: grid;
+ justify-content: center;
+ grid-template-columns: repeat(3, 500px);
+ grid-template-rows: repeat(4, 500px);
+}
+
+.item {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  border: 1px solid black;
+  font-size: 5em;
+}
+
+.item:nth-child(odd) {
+  background-color: #e9e4ff;
+  color: #30285c;
+}
+
+.item:nth-child(even) {
+  background-color: #170426;
+  color: #e9e4ff;
+}
+
+
+.item:hover {
+  background-color: #052d87;
+  color: #e9e4ff;
+  cursor: pointer;
+}
+
+.listened {
+  background-color: #30285c !important;
+  color: #30285c !important;
+}
+
+.listened:hover {
+  color: #e9e4ff !important;
+}

@@ -1,0 +1,17 @@
+---
+layout: page
+permalink: /students/index.html
+---
+
+<div class="student-list">
+  {% assign students = site.students | sort: 'last_name' %}
+  {% for student in students %}
+    {% assign github_username = student.student_id %}
+    {% if student.github_username %}
+      {% assign github_username = student.github_username %}
+    {% endif %}
+      <div class="student">
+        <h2>{{ student.first_name }} {{ student.last_name }}</h2>
+      </div>
+  {% endfor %}
+</div>
