@@ -11,6 +11,7 @@ summary: Intros, Syllabus, Code of Conduct, Student Slideshows
 - Introductions and Website overview
 - [Syllabus overview](/syllabus)
 - [Code of Conduct Creation](https://paper.dropbox.com/doc/F20-Core-Interaction-1-Code-of-Conduct--A6xleeNlU4eEYcSBfVd8K~0YAQ-60w16iII6a9Z7LD5YEU1C)
+- [Slack URL](http://cif20.slack.com)
 - Students upload slideshows to [google drive](https://drive.google.com/drive/folders/1kmLG4L98WP66aRHY0KIzz_0D3q5HEJKc?usp=sharing) and share their slideshows
 - Go over homework
 
