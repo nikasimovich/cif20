@@ -88,7 +88,7 @@ The first segment of Core Interaction will focus on the tools and concepts requi
 
 In our second segment, we’ll investigate how designing for the digital canvas differs from other media. We will aim to understand the inherent complexities and how to use them to create compelling digital experiences.
 
-#### In weeks 4-8 we will focus on:
+#### In weeks 5-8 we will focus on:
 
 - Typography with HTML/CSS
 - CSS selectors (cascades, combining, parent/child, pseudo)
@@ -102,7 +102,7 @@ In our second segment, we’ll investigate how designing for the digital canvas 
 
 Thinking about a website as a series of linked pages, we’ll take the concepts we used to make individual web pages and apply them to larger systems. We’ll explore how our systems can be designed to flex, rather than break, under a wide range of variables while still maintaining the original intent of the design.
 
-#### In weeks 6-9 we will focus on:
+#### In weeks 9-11 we will focus on:
 
 - Multi-page systems
 - Programming basic user interactions (:hover, basic JS click, etc.)
@@ -114,7 +114,7 @@ Thinking about a website as a series of linked pages, we’ll take the concepts 
 
 Because a website lives in a larger network of apps, websites, devices, and contexts, our final segment will explore how our website lives online. We’ll take the work we’ve done this semester and explore self-publishing and making our work public by putting our work on the internet.
 
-#### In weeks 10-15 we will focus on:
+#### In weeks 12-15 we will focus on:
 
 - Putting a website online (hosting, Github, custom domains)
 - Accessibility
