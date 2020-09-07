@@ -11,9 +11,8 @@ summary: Content and design relationship, Project organization, HTML Basics
 - Welcome Val and Lucinda!
 - [Today's Notes](https://paper.dropbox.com/doc/Week-2-Interview-Analysis-and-HTML-Intro--A7PShfHUXTLImCv0UMn0LPA9AQ-Cmgu5X8hDuJSg7ap13sQr)
 - Group activity: relationship between content and design
-- Project organization
+- Interview pairing, review homework
 - Local programming and HTML basics
-- Interview pairing, research, and documentation ideas
 
 ### Homework
 - Review your interview pairing. Decide on a time to conduct the interview and agree on desired format (Zoom, text message, email, etc.)
