@@ -2,7 +2,7 @@
 title:            Week 4
 start_date:       2020-09-21 00:00:00 -0500
 date_range:       09/21
-summary: Individual meetings, CSS Positioning Intro, Uploading our Work to GitHub
+summary: Individual meetings, CSS Positioning Intro, Uploading our work to GitHub
 ---
 
 ### Tuesday, In Class
