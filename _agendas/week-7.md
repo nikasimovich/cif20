@@ -1,7 +1,7 @@
 ---
 title:            Week 7
 start_date:       2020-09-21 00:00:00 -0500
-date_range:       10/12
+date_range:       10/13
 summary: Object Posters
 ---
 
