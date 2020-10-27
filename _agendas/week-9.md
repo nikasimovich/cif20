@@ -9,7 +9,7 @@ summary: Object Posters continued, Navigation
 
 - [Zoom Link](https://NewSchool.zoom.us/my/nikafisher)
 - [Today's Notes](https://paper.dropbox.com/doc/CIF20-Week-9--A~Q0y3zxUH0AW1DHt64JZGywAQ-7erwNg4Qjlnv3S0DAkl9m)
-- [Discuss]((https://paper.dropbox.com/doc/CI-Fall-20-Discussion-Questions--A93pIwi4oxA9Rg6zs7i3ae6VAQ-bNfQc4ITzAfFnEyXShqJT)) In Defense of the Poor Image
+- [Discuss](https://paper.dropbox.com/doc/CI-Fall-20-Discussion-Questions--A93pIwi4oxA9Rg6zs7i3ae6VAQ-bNfQc4ITzAfFnEyXShqJT) In Defense of the Poor Image
 - Discuss navigation and look at examples
 - Navigation activity
 - Small group meetings
