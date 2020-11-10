@@ -1,6 +1,6 @@
 ---
 title:            Week 10
-start_date:       2020-09-21 00:00:00 -0500
+start_date:       2020-11-09 00:00:00 -0500
 date_range:       11/10
 summary: Object Poster Critique
 ---
