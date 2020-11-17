@@ -10,7 +10,7 @@ summary: Common problems, Event Poster intro, Design process, Media queries
 - [Zoom Link](https://NewSchool.zoom.us/my/nikafisher)
 - [Today's Notes](https://paper.dropbox.com/doc/CIF20-Week-11--A_kvdh6zFf~yN3iWr5nu68tCAQ-G8Oar1Frok1fpcrU1hBCN)
 - Common mistakes
-- Introduce [Event Website](projects/event)
+- Introduce [Event Website](../projects/event)
 - Design process (site contents, wireframes)
 - Responsive design activity
 
