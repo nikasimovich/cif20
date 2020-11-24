@@ -2,7 +2,7 @@
 title:            Week 12
 start_date:       2020-11-24 00:00:00 -0500
 date_range:       11/24
-summary: Event poster check in
+summary: Event website check in
 ---
 
 ### Tuesday, In Class
@@ -12,4 +12,4 @@ summary: Event poster check in
 ### Homework
 
 - Happy Thanksgiving!
-- Develop 3 distinct visual directions for your event website. Each should include a title, description, visual research, and a homepage design. Be ready to share your work on Monday.
+- Develop 3 distinct visual directions for your event website. Each should include a title, description, visual research, and a homepage design. Be ready to share your work on Tuesday.
