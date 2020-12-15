@@ -8,7 +8,6 @@ summary: Final Critique
 ### Tuesday, In Class
 
 - [Zoom Link](https://NewSchool.zoom.us/my/nikafisher)
-- [Today's Notes](https://paper.dropbox.com/doc/Parsons-Week-14--BA5bqjbzG~vpwb1KwUSaUz6CAQ-pqtKVsivLgeKzaicvILpo)
 - [Critique document](https://paper.dropbox.com/doc/Parsons-Week-15-Event-Poster-Final-Critique--BBWHc0HjUfCPKKkjvi0QOoObAQ-N1Rh1hEZfvd8aMTA88Ax1)
 
 ### Homework
