@@ -23,7 +23,7 @@ simovicn@newschool.edu
 
 ### Code of Conduct + Group Agreement
 
-As a class, we will create a group agreement that addresses respect and etiquette in the classroom. Students will be responsible for maintaining this standard throughout the semester. Rutgers is very lucky to have a representative group of students with different backgrounds and cultures. With this comes varying amounts of privilege and awareness, so it is important that we practice patience and empathy in the classroom. We must all continuously learn, be open to criticism, develop a consciousness about these discrepancies, and actively seeking equity and allyship in the classroom and beyond.
+As a class, we will create a group agreement that addresses respect and etiquette in the classroom. Students will be responsible for maintaining this standard throughout the semester. Parsons is very lucky to have a representative group of students with different backgrounds and cultures. With this comes varying amounts of privilege and awareness, so it is important that we practice patience and empathy in the classroom. We must all continuously learn, be open to criticism, develop a consciousness about these discrepancies, and actively seeking equity and allyship in the classroom and beyond.
 
 ### Learning Outcomes
 By the end of the semester, students will be able to:
